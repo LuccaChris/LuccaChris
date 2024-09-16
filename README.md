@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuccaChris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaChris&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=LuccaChris&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=160&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaChris&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
