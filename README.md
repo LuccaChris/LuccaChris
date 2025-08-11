@@ -12,8 +12,6 @@
   <img src="https://streak-stats.demolab.com?user=LuccaChris&locale=pt-br&mode=daily&theme=github_dark&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 
----
-
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
