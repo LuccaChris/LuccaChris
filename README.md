@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <br/>
-  <a href="https://meuportifolio.com" target="_blank">
+  <a href="https://luccachris.github.io/Portfolio-CLLA/#contato" target="_blank">
   <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-00786f?style=for-the-badge">
 </a>
 </div>
