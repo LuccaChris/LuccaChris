@@ -1,18 +1,17 @@
-<h2 align="left">Hi 👋, I'm Christian Lucca</h2>
+# 👋 Hi, I'm Christian Lucca
 
 <p align="left">
   I'm a passionate technology enthusiast, always curious and eager to learn. Currently studying Software Engineering, working in IT support, and doing freelance front-end development.
 </p>
 
----
-
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuccaChris&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaChris&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="150" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=LuccaChris&locale=pt-br&mode=daily&theme=github_dark&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 
-<h3 align="center">Tech Stack</h3>
+## 🛠 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img width="12" />
@@ -39,10 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
 </div>
 
----
 
+## 🌐 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/christian-amaral-3815b820b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+  <br/>
+  <a href="https://meuportifolio.com" target="_blank">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-00786f?style=for-the-badge">
+</a>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LuccaChris&color=blue&style=flat)
